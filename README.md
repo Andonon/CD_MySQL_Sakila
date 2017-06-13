@@ -30,4 +30,4 @@ Queries
 
 Note: You may download this PDF file displaying the expected results from the questions above - Expected Result (Sakila)
 
-<img src="http://s3.amazonaws.com/General_V88/boomyeah/company_209/chapter_3569/handouts/chapter3569_5431_sakila-db-model.png width="300px">
+<img src="http://s3.amazonaws.com/General_V88/boomyeah/company_209/chapter_3569/handouts/chapter3569_5431_sakila-db-model.png" width="300px">
